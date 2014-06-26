@@ -1,0 +1,9 @@
+This folder contains my code for exercise 1 of the Stanford Machine Learning class. There are two main codes to run:
+ex1.m runs a univariate gradient descent on data of profits of food carts vs city population.
+ex1_multi.m runs a multivariate form of the same machine learning algorithm.
+
+Code was written in GNU octave but can also be run using matlab.
+To run:
+octave ex1.m
+or 
+octave ex1_multi.m
